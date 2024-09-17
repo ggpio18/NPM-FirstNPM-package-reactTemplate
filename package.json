@@ -1,0 +1,28 @@
+{
+  "name": "my-unique-react-vite-template",  
+  "version": "1.0.1",                       
+  "description": "A React + Vite starter template",
+  "main": "index.js",                        
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "author": "GGPIO18",
+  "license": "MIT",                         
+  "files": [                                
+    "src",
+    "public",
+    "vite.config.js",
+    "index.js",
+    "README.md"
+  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-react": "^2.0.0"
+  }
+}
